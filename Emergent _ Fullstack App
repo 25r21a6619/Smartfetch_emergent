@@ -1,0 +1,607 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://local-food-orders-1.preview.emergentagent.com/login
+Subject: Emergent | Fullstack App
+Date: Sun, 22 Feb 2026 21:25:56 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----"
+
+
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/html
+Content-ID: <frame-1561CE2D9FD1B0A27B947CA066F45BAA@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://local-food-orders-1.preview.emergentagent.com/login
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-1fd21af7-9011-4617-9ccb-6ec2e8d65868@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-a103f340-8ebc-481d-9ed7-7545398e1087@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-375ce649-d953-412c-a526-ea7c80388cd7@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-4d5b0549-8f03-4541-abf8-2aea72a7468b@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-23c4b1a8-89fa-4d09-9d43-bf70555f1aad@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-e7d101fd-b187-4b15-9576-b3a90d935e06@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-351e7128-2cf6-416c-8fd4-57644e21e9c8@mhtml.blink" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#000000">
+        <meta name="description" content="A product of emergent.sh">
+        <link rel="preconnect" href="https://fonts.googleapis.com/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600&amp;display=swap" rel="stylesheet">
+        <!--
+        manifest.json provides metadata used when your web app is installed on a
+        user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+        -->
+        <!--
+        Notice the use of  in the tags above.
+        It will be replaced with the URL of the `public` folder during the build.
+        Only files inside the `public` folder can be referenced from the HTML.
+
+        Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will
+        work correctly both with client-side routing and a non-root public URL.
+        Learn how to configure a non-root public URL by running `npm run build`.
+        -->
+        <title>Emergent | Fullstack App</title>
+        
+        
+        <!--
+        These two scripts have been added for the Visual Edits, please do not edit or remove them
+        -->
+        
+    </head>
+    <body>
+        
+        <div id="root"><div class="login-container" x-file-name="Login" x-line-number="64" x-component="div" x-id="Login_64" x-dynamic="false"><div class="login-content" x-file-name="Login" x-line-number="65" x-component="div" x-id="Login_65" x-dynamic="false"><div class="login-header" x-file-name="Login" x-line-number="66" x-component="div" x-id="Login_66" x-dynamic="false"><h1 data-testid="app-title" x-file-name="Login" x-line-number="67" x-component="h1" x-id="Login_67" x-dynamic="false">Smartfetch</h1><p x-file-name="Login" x-line-number="68" x-component="p" x-id="Login_68" x-dynamic="false">Your smart order pickup solution</p></div><span data-ve-dynamic="true" x-excluded="true" style="display: contents;"><form class="login-form" data-testid="phone-form" x-file-name="Login" x-line-number="72" x-component="form" x-id="Login_72" x-dynamic="false"><h2 x-file-name="Login" x-line-number="73" x-component="h2" x-id="Login_73" x-dynamic="false">Welcome Back</h2><p class="form-subtitle" x-file-name="Login" x-line-number="74" x-component="p" x-id="Login_74" x-dynamic="false">Enter your phone number to continue</p><div class="form-group" x-file-name="Login" x-line-number="76" x-component="div" x-id="Login_76" x-dynamic="false"><label for="phone" x-file-name="Login" x-line-number="77" x-component="label" x-id="Login_77" x-dynamic="false">Phone Number</label><input id="phone" placeholder="Enter 10-digit phone number" maxlength="10" data-testid="phone-input" class="form-input" x-file-name="Login" x-line-number="78" x-component="input" x-id="Login_78" x-dynamic="false" type="tel" value=""></div><span data-ve-dynamic="true" x-excluded="true" style="display: contents;"></span><button type="submit" class="submit-btn" data-testid="send-otp-btn" x-file-name="Login" x-line-number="92" x-component="button" x-id="Login_92" x-dynamic="false">Send OTP</button></form></span></div></div></div>
+        <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+        <a id="emergent-badge" target="_blank" href="https://app.emergent.sh/?utm_source=emergent-badge" style="
+                display: inline-flex !important;
+                box-sizing: border-box;
+                width: 178px;
+                height: 40px;
+                padding: 8px 12px 8px 12px;
+                align-items: center !important;
+                gap: 8px;
+                border-radius: 50px !important;
+                background: #000 !important;
+                position: fixed !important;
+                bottom: 16px;
+                right: 16px;
+                text-decoration: none;
+                font-family: -apple-system, BlinkMacSystemFont,
+                    &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell,
+                    &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;,
+                    sans-serif !important;
+                font-size: 12px !important;
+                z-index: 9999 !important;
+            ">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <path d="M15.5702 8.13142C15.7729 8.0412 16.0007 8.18878 15.9892 8.4103C15.8374 11.3192 14.0965 14.0405 11.2531 15.3065C8.40964 16.5725 5.2224 16.0453 2.95912 14.2117C2.78676 14.072 2.82955 13.804 3.03219 13.7137L4.95677 12.8568C5.04866 12.8159 5.15446 12.823 5.24204 12.8725C6.73377 13.7153 8.59176 13.8649 10.2772 13.1145C11.9626 12.3641 13.0947 10.8833 13.4665 9.21075C13.4883 9.11256 13.5539 9.02918 13.6457 8.98827L15.5702 8.13142Z" fill="white"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3066 4.74698L15.5067 5.19653C15.5759 5.35178 15.5061 5.53366 15.3508 5.60278L1.29992 11.8586C1.14467 11.9278 0.962794 11.8579 0.893675 11.7027L0.701732 11.2716L0.693457 11.2531C-1.10317 7.21778 0.711626 2.49007 4.74692 0.693443C8.78221 -1.10318 13.51 0.711693 15.3066 4.74698ZM2.82356 8.55367C2.63552 8.63739 2.41991 8.51617 2.40853 8.31065C2.28373 6.05724 3.53858 3.85787 5.72286 2.88536C7.90715 1.91286 10.3813 2.45199 11.9724 4.05256C12.1175 4.19854 12.0633 4.43988 11.8753 4.5236L2.82356 8.55367Z" fill="white"></path>
+            </svg>
+            <p style="
+                    color: #FFF !important;
+                    font-family: 'Inter', sans-serif !important;
+                    font-size: 13px !important;
+                    font-style: normal !important;
+                    font-weight: 600 !important;
+                    line-height: 20px !important;
+                    margin: 0 !important;
+                    white-space: nowrap !important;
+                ">
+                Made with Emergent
+            </p>
+        </a>
+        
+    
+
+</body></html>
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZJhiJ-Ck-_seA.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthiJ-Ck-_seA.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZNhiJ-Ck-_seA.woff2") format("woff2"); unicode-range: U+1F00-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZxhiJ-Ck-_seA.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZBhiJ-Ck-_seA.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZFhiJ-Ck-_seA.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hiJ-Ck-8.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-351e7128-2cf6-416c-8fd4-57644e21e9c8@mhtml.blink
+
+@charset "utf-8";
+
+.App { min-height: 100vh; }
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e7d101fd-b187-4b15-9576-b3a90d935e06@mhtml.blink
+
+@charset "utf-8";
+
+.dashboard-container { min-height: 100vh; background: rgb(248, 249, 250); }
+
+.dashboard-header { background: white; padding: 1.5rem 3rem; box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 8px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0px; z-index: 100; }
+
+.dashboard-header h1 { font-size: 1.75rem; color: rgb(26, 26, 26); font-family: "Work Sans", sans-serif; }
+
+.header-actions { display: flex; gap: 1rem; align-items: center; }
+
+.tab-btn { padding: 0.625rem 1.5rem; background: transparent; color: rgb(107, 114, 128); border-radius: 8px; font-weight: 500; font-size: 0.95rem; border: 2px solid transparent; }
+
+.tab-btn:hover { background: rgb(243, 244, 246); transform: none; }
+
+.tab-btn.active { background: rgb(102, 126, 234); color: white; }
+
+.logout-btn { padding: 0.625rem 1.5rem; background: rgb(243, 244, 246); color: rgb(55, 65, 81); border-radius: 8px; font-weight: 500; font-size: 0.95rem; }
+
+.logout-btn:hover { background: rgb(229, 231, 235); }
+
+.dashboard-content { max-width: 1400px; margin: 0px auto; padding: 2.5rem 3rem; }
+
+.shops-section, .my-orders-section { background: white; padding: 2rem; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.04) 0px 2px 8px; }
+
+.shops-section h2, .my-orders-section h2 { font-size: 1.5rem; color: rgb(26, 26, 26); margin-bottom: 1.5rem; }
+
+.shops-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; }
+
+.shop-card { background: rgb(249, 250, 251); border: 2px solid rgb(229, 231, 235); border-radius: 12px; padding: 1.5rem; transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s; }
+
+.shop-card:hover { transform: translateY(-2px); box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px; border-color: rgb(102, 126, 234); }
+
+.shop-card h3 { font-size: 1.25rem; color: rgb(26, 26, 26); margin-bottom: 0.5rem; }
+
+.shop-card .category { color: rgb(102, 126, 234); font-size: 0.9rem; font-weight: 500; margin-bottom: 0.5rem; }
+
+.shop-card .prep-time { color: rgb(107, 114, 128); font-size: 0.9rem; margin-bottom: 1rem; }
+
+.view-btn { width: 100%; padding: 0.75rem; background: rgb(102, 126, 234); color: white; border-radius: 8px; font-weight: 500; font-size: 0.95rem; }
+
+.view-btn:hover { background: rgb(85, 104, 211); }
+
+.shop-detail { background: white; padding: 2rem; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.04) 0px 2px 8px; }
+
+.back-btn { padding: 0.625rem 1.25rem; background: rgb(243, 244, 246); color: rgb(55, 65, 81); border-radius: 8px; font-weight: 500; font-size: 0.9rem; margin-bottom: 1.5rem; }
+
+.back-btn:hover { background: rgb(229, 231, 235); }
+
+.shop-detail h2 { font-size: 2rem; color: rgb(26, 26, 26); margin-bottom: 0.5rem; }
+
+.shop-meta { color: rgb(107, 114, 128); font-size: 1rem; margin-bottom: 2rem; }
+
+.shop-detail-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; }
+
+.products-browse h3, .cart-section h3 { font-size: 1.25rem; color: rgb(26, 26, 26); margin-bottom: 1rem; }
+
+.products-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
+
+.product-card { background: rgb(249, 250, 251); border: 2px solid rgb(229, 231, 235); border-radius: 10px; padding: 1.25rem; text-align: center; transition: transform 0.2s, border-color 0.2s; }
+
+.product-card:hover { transform: translateY(-2px); border-color: rgb(102, 126, 234); }
+
+.product-card h4 { font-size: 1.05rem; color: rgb(26, 26, 26); margin-bottom: 0.5rem; }
+
+.product-card .price { color: rgb(102, 126, 234); font-weight: 600; font-size: 1.125rem; margin-bottom: 1rem; }
+
+.add-cart-btn { width: 100%; padding: 0.625rem; background: rgb(102, 126, 234); color: white; border-radius: 8px; font-weight: 500; font-size: 0.9rem; }
+
+.add-cart-btn:hover { background: rgb(85, 104, 211); }
+
+.cart-section { background: rgb(249, 250, 251); padding: 1.5rem; border-radius: 12px; border: 2px solid rgb(229, 231, 235); height: fit-content; position: sticky; top: 100px; }
+
+.cart-items { display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1rem; }
+
+.cart-item { display: flex; justify-content: space-between; align-items: center; padding: 0.875rem; background: white; border-radius: 8px; border: 1px solid rgb(229, 231, 235); }
+
+.cart-item h4 { font-size: 0.95rem; color: rgb(26, 26, 26); margin-bottom: 0.25rem; }
+
+.cart-item p { color: rgb(107, 114, 128); font-size: 0.85rem; }
+
+.cart-controls { display: flex; gap: 0.5rem; align-items: center; }
+
+.cart-controls button { width: 28px; height: 28px; border-radius: 6px; background: rgb(102, 126, 234); color: white; font-size: 1rem; display: flex; align-items: center; justify-content: center; }
+
+.cart-controls button:hover { background: rgb(85, 104, 211); }
+
+.cart-controls span { min-width: 30px; text-align: center; font-weight: 600; color: rgb(55, 65, 81); }
+
+.cart-total { padding: 1rem 0px; border-top: 2px solid rgb(229, 231, 235); margin-bottom: 1rem; text-align: right; color: rgb(26, 26, 26); font-size: 1.125rem; }
+
+.checkout-form { display: flex; flex-direction: column; gap: 0.75rem; }
+
+.checkout-form label { font-weight: 500; color: rgb(55, 65, 81); font-size: 0.9rem; }
+
+.checkout-form input { width: 100%; padding: 0.75rem; border: 2px solid rgb(229, 231, 235); border-radius: 8px; font-size: 0.95rem; }
+
+.checkout-form input:focus { outline: none; border-color: rgb(102, 126, 234); }
+
+.place-order-btn { width: 100%; padding: 0.875rem; background: rgb(102, 126, 234); color: white; border-radius: 8px; font-weight: 600; font-size: 1rem; }
+
+.place-order-btn:hover { background: rgb(85, 104, 211); }
+
+.orders-list { display: flex; flex-direction: column; gap: 1rem; }
+
+.order-card { background: rgb(249, 250, 251); border: 1px solid rgb(229, 231, 235); border-radius: 10px; padding: 1.25rem; }
+
+.order-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+
+.order-id { font-weight: 600; color: rgb(55, 65, 81); font-size: 0.95rem; }
+
+.status-badge { padding: 0.375rem 0.875rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+
+.status-new { background: rgb(219, 234, 254); color: rgb(30, 64, 175); }
+
+.status-preparing { background: rgb(254, 243, 199); color: rgb(146, 64, 14); }
+
+.status-ready { background: rgb(209, 250, 229); color: rgb(6, 95, 70); }
+
+.status-rejected { background: rgb(254, 226, 226); color: rgb(153, 27, 27); }
+
+.status-cancelled { background: rgb(243, 244, 246); color: rgb(75, 85, 99); }
+
+.order-details { margin-bottom: 1rem; }
+
+.order-details p { margin-bottom: 0.5rem; color: rgb(75, 85, 99); font-size: 0.95rem; }
+
+.order-items { margin-top: 0.75rem; }
+
+.order-item { padding: 0.5rem 0px; color: rgb(107, 114, 128); font-size: 0.9rem; }
+
+.cancel-order-btn { width: 100%; padding: 0.625rem; background: rgb(254, 242, 242); color: rgb(220, 38, 38); border-radius: 8px; font-weight: 500; font-size: 0.9rem; border: 1px solid rgb(254, 202, 202); }
+
+.cancel-order-btn:hover { background: rgb(254, 226, 226); }
+
+.order-success { max-width: 500px; margin: 0px auto; text-align: center; background: white; padding: 3rem 2rem; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.04) 0px 2px 8px; }
+
+.order-success h2 { font-size: 1.75rem; color: rgb(26, 26, 26); margin-bottom: 2rem; }
+
+.qr-code-section { display: flex; flex-direction: column; align-items: center; margin-bottom: 2rem; padding: 2rem; background: rgb(249, 250, 251); border-radius: 12px; }
+
+.qr-code-section canvas { margin-bottom: 1.5rem; }
+
+.order-id { font-weight: 600; color: rgb(107, 114, 128); font-size: 0.95rem; }
+
+.continue-btn { padding: 0.875rem 2rem; background: rgb(102, 126, 234); color: white; border-radius: 8px; font-weight: 600; font-size: 1rem; }
+
+.continue-btn:hover { background: rgb(85, 104, 211); }
+
+.empty-message { text-align: center; color: rgb(156, 163, 175); padding: 2rem; font-size: 0.95rem; }
+
+@media (max-width: 1024px) {
+  .shop-detail-grid { grid-template-columns: 1fr; }
+  .cart-section { position: static; }
+}
+
+@media (max-width: 768px) {
+  .dashboard-header { padding: 1rem 1.5rem; flex-direction: column; gap: 1rem; }
+  .header-actions { width: 100%; justify-content: space-between; }
+  .dashboard-content { padding: 1.5rem; }
+  .shops-grid { grid-template-columns: 1fr; }
+  .products-grid { grid-template-columns: 1fr; }
+}
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-23c4b1a8-89fa-4d09-9d43-bf70555f1aad@mhtml.blink
+
+@charset "utf-8";
+
+.dashboard-container { min-height: 100vh; background: rgb(248, 249, 250); }
+
+.dashboard-header { background: white; padding: 1.5rem 3rem; box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 8px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0px; z-index: 100; }
+
+.dashboard-header h1 { font-size: 1.75rem; color: rgb(26, 26, 26); font-family: "Work Sans", sans-serif; }
+
+.shop-name { color: rgb(102, 126, 234); font-size: 1rem; margin-top: 0.25rem; }
+
+.logout-btn { padding: 0.625rem 1.5rem; background: rgb(243, 244, 246); color: rgb(55, 65, 81); border-radius: 8px; font-weight: 500; font-size: 0.95rem; }
+
+.logout-btn:hover { background: rgb(229, 231, 235); }
+
+.dashboard-content { max-width: 1400px; margin: 0px auto; padding: 2.5rem 3rem; }
+
+.dashboard-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+
+.products-section, .orders-section { background: white; padding: 2rem; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.04) 0px 2px 8px; }
+
+.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; }
+
+.section-header h2 { font-size: 1.5rem; color: rgb(26, 26, 26); }
+
+.add-btn { padding: 0.625rem 1.25rem; background: rgb(102, 126, 234); color: white; border-radius: 8px; font-weight: 500; font-size: 0.95rem; }
+
+.add-btn:hover { background: rgb(85, 104, 211); }
+
+.add-product-form { background: rgb(249, 250, 251); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; border: 2px solid rgb(229, 231, 235); }
+
+.form-row { display: flex; gap: 0.75rem; align-items: center; }
+
+.form-row input { flex: 1 1 0%; padding: 0.75rem; border: 2px solid rgb(229, 231, 235); border-radius: 8px; font-size: 0.95rem; }
+
+.form-row input:focus { outline: none; border-color: rgb(102, 126, 234); }
+
+.form-row button { padding: 0.75rem 1.25rem; border-radius: 8px; font-weight: 500; font-size: 0.95rem; }
+
+.form-row .submit-btn { background: rgb(102, 126, 234); color: white; }
+
+.form-row .cancel-btn { background: rgb(243, 244, 246); color: rgb(107, 114, 128); }
+
+.products-list { display: flex; flex-direction: column; gap: 0.75rem; }
+
+.product-item { display: flex; justify-content: space-between; align-items: center; padding: 1rem 1.25rem; background: rgb(249, 250, 251); border-radius: 8px; border: 1px solid rgb(229, 231, 235); }
+
+.product-item h4 { font-size: 1rem; color: rgb(26, 26, 26); margin-bottom: 0.25rem; }
+
+.product-item .price { color: rgb(102, 126, 234); font-weight: 600; font-size: 0.95rem; }
+
+.remove-btn { padding: 0.5rem 1rem; background: rgb(254, 242, 242); color: rgb(220, 38, 38); border-radius: 6px; font-size: 0.9rem; font-weight: 500; }
+
+.remove-btn:hover { background: rgb(254, 226, 226); }
+
+.orders-list { display: flex; flex-direction: column; gap: 1rem; }
+
+.order-card { background: rgb(249, 250, 251); border: 1px solid rgb(229, 231, 235); border-radius: 10px; padding: 1.25rem; }
+
+.order-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+
+.order-id { font-weight: 600; color: rgb(55, 65, 81); font-size: 0.95rem; }
+
+.status-badge { padding: 0.375rem 0.875rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+
+.status-new { background: rgb(219, 234, 254); color: rgb(30, 64, 175); }
+
+.status-preparing { background: rgb(254, 243, 199); color: rgb(146, 64, 14); }
+
+.status-ready { background: rgb(209, 250, 229); color: rgb(6, 95, 70); }
+
+.status-rejected { background: rgb(254, 226, 226); color: rgb(153, 27, 27); }
+
+.status-cancelled { background: rgb(243, 244, 246); color: rgb(75, 85, 99); }
+
+.order-details { margin-bottom: 1rem; }
+
+.order-details p { margin-bottom: 0.5rem; color: rgb(75, 85, 99); font-size: 0.95rem; }
+
+.order-items { margin-top: 0.75rem; }
+
+.order-item { padding: 0.5rem 0px; color: rgb(107, 114, 128); font-size: 0.9rem; }
+
+.order-actions { display: flex; gap: 0.75rem; margin-top: 1rem; }
+
+.action-btn { flex: 1 1 0%; padding: 0.625rem; border-radius: 8px; font-weight: 500; font-size: 0.9rem; }
+
+.accept-btn { background: rgb(102, 126, 234); color: white; }
+
+.reject-btn { background: rgb(254, 242, 242); color: rgb(220, 38, 38); }
+
+.ready-btn { background: rgb(209, 250, 229); color: rgb(6, 95, 70); }
+
+.empty-message { text-align: center; color: rgb(156, 163, 175); padding: 2rem; font-size: 0.95rem; }
+
+.create-shop-section { max-width: 600px; margin: 0px auto; background: white; padding: 2.5rem; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.04) 0px 2px 8px; }
+
+.create-shop-section h2 { font-size: 1.75rem; margin-bottom: 1.5rem; color: rgb(26, 26, 26); text-align: center; }
+
+.shop-form .form-group { margin-bottom: 1.5rem; }
+
+.shop-form label { display: block; margin-bottom: 0.5rem; font-weight: 500; color: rgb(55, 65, 81); font-size: 0.95rem; }
+
+.shop-form input { width: 100%; padding: 0.875rem; border: 2px solid rgb(229, 231, 235); border-radius: 8px; font-size: 1rem; }
+
+.shop-form input:focus { outline: none; border-color: rgb(102, 126, 234); }
+
+.shop-form .submit-btn { width: 100%; padding: 1rem; background: rgb(102, 126, 234); color: white; border-radius: 8px; font-weight: 600; font-size: 1rem; margin-top: 0.5rem; }
+
+@media (max-width: 1024px) {
+  .dashboard-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 768px) {
+  .dashboard-header { padding: 1rem 1.5rem; }
+  .dashboard-content { padding: 1.5rem; }
+  .form-row { flex-direction: column; }
+  .form-row input { width: 100%; }
+}
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-4d5b0549-8f03-4541-abf8-2aea72a7468b@mhtml.blink
+
+@charset "utf-8";
+
+.select-role-container { min-height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, rgb(102, 126, 234) 0%, rgb(118, 75, 162) 100%); padding: 2rem; }
+
+.select-role-content { width: 100%; max-width: 800px; text-align: center; }
+
+.select-role-content h1 { font-size: 2.5rem; color: white; margin-bottom: 0.75rem; font-family: "Work Sans", sans-serif; }
+
+.subtitle { color: rgba(255, 255, 255, 0.95); font-size: 1.125rem; margin-bottom: 3rem; }
+
+.role-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-bottom: 2.5rem; }
+
+.role-card { background: white; padding: 2.5rem 2rem; border-radius: 16px; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s; border: 3px solid transparent; box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 30px; }
+
+.role-card:hover { transform: translateY(-4px); box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 40px; }
+
+.role-card.selected { border-color: rgb(102, 126, 234); box-shadow: rgba(102, 126, 234, 0.3) 0px 15px 40px; }
+
+.role-icon { font-size: 4rem; margin-bottom: 1rem; }
+
+.role-card h3 { font-size: 1.5rem; margin-bottom: 0.75rem; color: rgb(26, 26, 26); }
+
+.role-card p { color: rgb(107, 114, 128); font-size: 1rem; line-height: 1.5; }
+
+.continue-btn { padding: 1rem 3rem; background: white; color: rgb(102, 126, 234); border-radius: 12px; font-size: 1.125rem; font-weight: 600; box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 20px; transition: transform 0.2s, box-shadow 0.2s; }
+
+.continue-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+.continue-btn:not(:disabled):hover { box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 25px; }
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-375ce649-d953-412c-a526-ea7c80388cd7@mhtml.blink
+
+@charset "utf-8";
+
+.login-container { min-height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, rgb(102, 126, 234) 0%, rgb(118, 75, 162) 100%); padding: 2rem; }
+
+.login-content { width: 100%; max-width: 480px; }
+
+.login-header { text-align: center; margin-bottom: 3rem; color: white; }
+
+.login-header h1 { font-size: 3rem; font-weight: 700; margin-bottom: 0.5rem; font-family: "Work Sans", sans-serif; }
+
+.login-header p { font-size: 1.125rem; opacity: 0.95; }
+
+.login-form { background: white; padding: 2.5rem; border-radius: 16px; box-shadow: rgba(0, 0, 0, 0.15) 0px 20px 60px; }
+
+.login-form h2 { font-size: 1.75rem; margin-bottom: 0.5rem; color: rgb(26, 26, 26); }
+
+.form-subtitle { color: rgb(107, 114, 128); margin-bottom: 2rem; font-size: 0.95rem; }
+
+.form-group { margin-bottom: 1.5rem; }
+
+.form-group label { display: block; margin-bottom: 0.5rem; font-weight: 500; color: rgb(55, 65, 81); font-size: 0.95rem; }
+
+.form-input { width: 100%; padding: 0.875rem 1rem; border: 2px solid rgb(229, 231, 235); border-radius: 10px; font-size: 1rem; transition: border-color 0.2s, box-shadow 0.2s; }
+
+.form-input:focus { outline: none; border-color: rgb(102, 126, 234); box-shadow: rgba(102, 126, 234, 0.1) 0px 0px 0px 3px; }
+
+.otp-display { background: rgb(243, 244, 246); padding: 1rem; border-radius: 10px; text-align: center; margin-bottom: 1.5rem; border: 2px dashed rgb(209, 213, 219); }
+
+.otp-display span { color: rgb(75, 85, 99); font-size: 0.95rem; }
+
+.otp-display strong { color: rgb(102, 126, 234); font-size: 1.5rem; display: block; margin-top: 0.5rem; letter-spacing: 0.3rem; }
+
+.error-message { background: rgb(254, 242, 242); color: rgb(220, 38, 38); padding: 0.75rem 1rem; border-radius: 8px; margin-bottom: 1rem; font-size: 0.9rem; border: 1px solid rgb(254, 202, 202); }
+
+.submit-btn { width: 100%; padding: 1rem; background: linear-gradient(135deg, rgb(102, 126, 234) 0%, rgb(118, 75, 162) 100%); color: white; border-radius: 10px; font-size: 1rem; font-weight: 600; margin-top: 0.5rem; box-shadow: rgba(102, 126, 234, 0.3) 0px 4px 12px; }
+
+.submit-btn:hover { box-shadow: rgba(102, 126, 234, 0.4) 0px 6px 16px; }
+
+.back-btn { width: 100%; padding: 0.875rem; background: transparent; color: rgb(107, 114, 128); border-radius: 10px; font-size: 0.95rem; font-weight: 500; margin-top: 0.75rem; border: 2px solid rgb(229, 231, 235); }
+
+.back-btn:hover { background: rgb(249, 250, 251); border-color: rgb(209, 213, 219); transform: none; }
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a103f340-8ebc-481d-9ed7-7545398e1087@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: Manrope, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; -webkit-font-smoothing: antialiased; background: rgb(248, 249, 250); color: rgb(26, 26, 26); }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace; }
+
+h1, h2, h3, h4 { font-family: "Work Sans", sans-serif; font-weight: 600; }
+
+button { font-family: Manrope, sans-serif; cursor: pointer; border: none; outline: none; transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s; }
+
+button:hover { transform: translateY(-1px); }
+
+button:active { transform: translateY(0px); }
+
+input, select, textarea { font-family: Manrope, sans-serif; }
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSvfedN62Zw.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSvfedN62Zw.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSvfedN62Zw.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggqxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggOxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggSxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggixSvfedN62Zw.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSvfedN62Zw.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Manrope; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_c6DptfpA4cD3.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_cqDptfpA4cD3.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_c6DptfpA4cD3.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_cqDptfpA4cD3.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_c6DptfpA4cD3.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_cqDptfpA4cD3.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_c6DptfpA4cD3.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_cqDptfpA4cD3.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Work Sans"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/worksans/v24/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-1fd21af7-9011-4617-9ccb-6ec2e8d65868@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap");
+------MultipartBoundary--004WpAA8gBpOlBa6Lw0KID8UBqfxNLwJsWlEUwKdnT------
